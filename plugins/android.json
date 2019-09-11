@@ -1,0 +1,25 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "org.apache.cordova.cordovareact"
+    },
+    "cordova-plugin-local-notification": {
+      "PACKAGE_NAME": "org.apache.cordova.cordovareact"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "org.apache.cordova.cordovareact"
+    },
+    "cordova-plugin-badge": {
+      "PACKAGE_NAME": "org.apache.cordova.cordovareact"
+    }
+  }
+}
